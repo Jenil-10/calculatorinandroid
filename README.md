@@ -20,8 +20,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 /*
 Program to create and design an android application simple calculator using Intent.
-Developed by:VEMBARASAN P
-Registeration Number :212223220123
+Developed by:jenil pio j
+Registeration Number :212223220040
 */
 ## MainActivity.java:
 ```
